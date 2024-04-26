@@ -36,7 +36,7 @@ ng serve
 * If the provided credentials are valid, you will be logged in.
 * If the credentials are invalid, an error message will be displayed.
 
-## Licenses
+## Tech Stack
 This project uses the following licenses for the programming languages used:
 
 - Angular CLI: v16.0.5
